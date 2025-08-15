@@ -35,13 +35,21 @@
 ##  Project Structure
 📁 project_root/
 ├── GTFSLOADER.py # GTFS 데이터 로더
+
 ├── part1_data_loader.py # 데이터 통합 및 RAPTOR 준비
+
 ├── part2_raptor_algorithm.py # 경로 탐색 실행
+
 ├── part3_visualization.py # 결과 시각화
+
 ├── gangnam_raptor_visualization_results
+
 ├── gangnam_multimodal_raptor_data_with_real_roads
+
 ├── output_integrated_transport_data
+
 ├── road_data
+
 ├── test_results
 
 
@@ -63,4 +71,5 @@
 - 강남구 실증 분석 및 성능 비교 보고서 작성
 
 ---
+
 
